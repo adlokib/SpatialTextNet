@@ -9,3 +9,5 @@ rrc_data/json/cropped_val_v1.json
 rrc_data/zips/cropped_train.tar.gz
 rrc_data/zips/test_croppedv2.zip
 rrc_data/zips/val.zip
+train_dict.pkl
+val_dict.pkl
