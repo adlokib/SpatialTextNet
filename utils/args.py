@@ -21,7 +21,7 @@ max_WbyH_for_sq = 1.5 # Images with W/H ratio greater than this will be consider
 BATCH_SIZE = 160
 DEVICE = 'cuda'
 EPOCH = 300
-file_dest = './'
+file_dest = 'ckpts/'
 
 wide_res = (96,288) #(144,432)
 square_res = (160,160) #(240,240)
